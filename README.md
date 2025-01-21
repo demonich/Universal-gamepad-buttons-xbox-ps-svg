@@ -1,4 +1,4 @@
-# Universal-gamepad-buttons-xbox-ps-svg
+# Universal gamepad buttons layout (xbox/ps)
 
 ![Preview](https://github.com/user-attachments/assets/6834b7d3-921b-45e5-a64a-a1d768d26756)
 
