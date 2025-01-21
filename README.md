@@ -1,4 +1,4 @@
-# Universal gamepad buttons layout (xbox/ps)
+# Universal gamepad button decals (xbox/ps)
 
 ![Preview](https://github.com/user-attachments/assets/523e130c-5028-4a60-931f-60489674a778)
 
